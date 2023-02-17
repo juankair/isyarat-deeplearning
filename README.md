@@ -1,4 +1,4 @@
-# Project Name
+# Pengenalan Bahasa Isyarat
 
 Provide a brief description of your project and its purpose.
 
