@@ -1,4 +1,4 @@
-# Pengenalan Bahasa Isyarat
+# Sign Recognition
 
 Provide a brief description of your project and its purpose.
 
